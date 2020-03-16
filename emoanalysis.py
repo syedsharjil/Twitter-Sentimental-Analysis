@@ -15,10 +15,10 @@ class EmoAnalysis:
 
     def downloaddata(self):
 
-        consumerkey = "4SLqqB8mdfjqLdwv42IBzyCIM"
-        consumersecret = "yaVSOxfX39HsW8oNI1exwCigZV2fYlgzSNgQnCBgE7qI0LhW3v"
-        accesstoken = "2543940913-hXequh6434VfNMjX6vMr64YjMNTY1GjH3UiUl4x"
-        accesstokensecret = "xpcZ5BeUuH9BjVc6AqeZMu6IbbQVln9vCFxZUgylqZBJE"
+        consumerkey = "xxxxxxxxxxxxxx"
+        consumersecret = "xxxxxxxxxxx"
+        accesstoken = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        accesstokensecret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
         auth = tweepy.OAuthHandler(consumer_key=consumerkey, consumer_secret=consumersecret)
         auth.set_access_token(accesstoken, accesstokensecret)
