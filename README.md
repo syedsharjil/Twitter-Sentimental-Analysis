@@ -8,17 +8,14 @@
 
 ## Setup
 Follow these steps to run the script locally on your machine.
-
 1. Install tweepy 
 ```
 $ pip install tweepy
 ```
-
 2.Install  textblob
 ```
 $ pip install textblob
 ```
-
 3. Obtain Twitter API keys from [here](https://developer.twitter.com/en/docs/basics/getting-started). This site has a good tututorial to help you with the end to end process of getting the Twiiter API keys. 
 
 ### Running the script.
