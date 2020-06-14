@@ -12,7 +12,7 @@ Follow these steps to run the script locally on your machine.
 ```
 $ pip install tweepy
 ```
-2.Install  textblob
+2. Install  textblob
 ```
 $ pip install textblob
 ```
