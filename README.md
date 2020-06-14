@@ -1,4 +1,5 @@
 # Twitter-Sentimental-Analysis
+![](buzzlogix-sentimentanalysistwitter.png)
 
 * The emoannalysis.py is a Python script which is used for analyzing the sentiments of tweets on any topic.
 * It makes use of the famous Tweepy and Textblob libraries available in Python.
