@@ -21,6 +21,6 @@ $ pip install textblob
 ### Running the script
 The script can be run on any IDE of your choice or using the shell.
 ```
-$ Run emoanalysis.py
+$ python3 emoanalysis.py
 
 ```
