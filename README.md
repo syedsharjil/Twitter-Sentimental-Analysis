@@ -5,3 +5,20 @@
 * It makes use of the famous Tweepy and Textblob libraries available in Python.
 * Tweepy is used for dealing with the official Twitter API for collecting the tweets.
 * Textblob is a NLP library which helps in analyzing the tweets and the sentiments associated with each tweet.
+
+## Setup
+Follow these steps to run the script locally on your machine.
+
+1. Install tweepy 
+```
+pip install tweepy
+```
+
+2.Install  textblob
+```
+pip install textblob
+```
+
+3. Obtain Twitter API keys from [here](https://developer.twitter.com/en/docs/basics/getting-started). This site has a good tututorial to help you with the end to end process of getting the Twiiter API keys. 
+
+
